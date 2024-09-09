@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Firts mini projet: To-do List application
 
 - Name: Jonathan Lopez
@@ -9,3 +10,6 @@ To practice the skill learned in python basics and develop a to-do list applicat
 
 # How it works
 The application its pretty self explanitry: it will print a menu and the user has to select one of its 5 given options, the application allows you to view, add, switch and delete tasks from any of the 2 given lists
+=======
+# mini_project_to_do_list
+>>>>>>> 4a0187eaba073b852f3ea3f9ea31836da796ec64
